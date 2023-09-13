@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulament/Encapsulament.iml" filepath="$PROJECT_DIR$/Encapsulament/Encapsulament.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horadosistema/horadosistema.iml" filepath="$PROJECT_DIR$/horadosistema/horadosistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idiomadosistema/idiomadosistema.iml" filepath="$PROJECT_DIR$/idiomadosistema/idiomadosistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroSwing/primeiroSwing.iml" filepath="$PROJECT_DIR$/primeiroSwing/primeiroSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroprograma1/primeiroprograma1.iml" filepath="$PROJECT_DIR$/primeiroprograma1/primeiroprograma1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeVS/testeVS.iml" filepath="$PROJECT_DIR$/testeVS/testeVS.iml" />
+    </modules>
+  </component>
+</project>
